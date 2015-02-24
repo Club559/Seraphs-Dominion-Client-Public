@@ -81,9 +81,9 @@ public class Parameters {
 
     public static function _fK_():String {
         if (_I_O_()) {
-            return ("127.0.0.1:8088"); // _I_O_() -> TRUE -- Testing Enabled
+            return ("127.0.0.1:8080"); // _I_O_() -> TRUE -- Testing Enabled
         }
-        return ("24.8.16.182:8088"); // _I_O_() -> FALSE -- Testing Disabled
+        return ("127.0.0.1:8080"); // _I_O_() -> FALSE -- Testing Disabled
     }
 
     /*public static function _05w():String {
