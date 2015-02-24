@@ -1,0 +1,1739 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AirPackageProjectParameters">
+    <option name="desktopPackageType" value="native installer (*.exe)" />
+    <option name="deselectedBCs" value="RealmClient&#9;WebMain&#10;Rotmg123.5.1&#9;Rotmg123.5.1" />
+  </component>
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="4" />
+    <option name="ANALYSIS_IN_BACKGROUND" value="true" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="00a96bec-c5f1-4ff1-bc56-aa5d9a889559" name="Default" comment="">
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_innerP2MaskEmbed_.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_chars8x8dEncountersEmbed_.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_chars8x8rMid2Embed_.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_textile5x5Embed_.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\_rK_\_B_c.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_lofiCharEmbed_.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_lofiObj5Embed_.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_lofiObj5Embed_.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_chars8x8rEncountersEmbed_.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_chars8x8rHero1Embed_.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\_rK_\_03W_.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_lofiInterfaceEmbed_.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_chars8x8dEncountersEmbed_.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_starsEmbed_.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_extraEnvironmentEmbed_.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_chars16x8rEncountersEmbed_.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_chars8x8rPets1MaskEmbed_.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\_L_7\_0L_h.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_textile10x10Embed_.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_monsterTank3Embed_.dat" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_chars16x16dEncountersEmbed_.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_textile10x10Embed_.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_chars8x8dBeachEmbed_.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_chars16x16rEncountersEmbed_.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_lofiObj2Embed_.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_textile4x4Embed_.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_innerP1MaskEmbed_.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_chars8x8rHighEmbed_.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_chars8x8rPets1MaskEmbed_.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_chars8x8rMid2Embed_.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_chars8x8dHero1Embed_.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_chars16x16dMountains1Embed_.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_lofiObj4Embed_.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_lofiEnvironmentEmbed_.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_chars8x8rLow1Embed_.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_chars8x8rHero1Embed_.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_monsterTank1Embed_.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_chars16x16dEncounters2Embed_.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_chars8x8rPets1Embed_.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_lofiEnvironment2Embed_.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_innerP2MaskEmbed_.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_chars8x8rHero2Embed_.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_lofiEnvironment2Embed_.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\_rK_\CurrentLoginFrame.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_lofiCharEmbed_.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_lofiEnvironment3Embed_.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_chars8x8rBeachEmbed_.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_monsterTank4Embed_.dat" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_monsterTank3Embed_.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\_L_7\CurrentLoginFrame.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_chars8x8rPetsKaratePenguin_.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\_rK_\_0L_h.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_chars16x16dEncounters2Embed_.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_monsterTank2Embed_.dat" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_chars8x8rHero2Embed_.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_lofiChar2Embed_.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\_L_7\LinkFrame.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\_rK_\_07s.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_textile9x9Embed_.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_monsterTank2Embed_.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_chars16x16dMountains1Embed_.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_chars8x8dHero1Embed_.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\_L_7\_O_Z_.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_chars8x8rEncountersEmbed_.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_chars8x8rHighEmbed_.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\_rK_\LinkFrame.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_textile4x4Embed_.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_textile5x5Embed_.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_lofiObj3Embed_.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_textile9x9Embed_.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\_L_7\_Y_S_.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_chars8x8rLow1Embed_.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_playerSkinsMaskEmbed_.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_lofiInterfaceEmbed_.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_lofiObj40x40Embed_.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_chars16x16rEncountersEmbed_.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_lofiObjEmbed_.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_chars8x8rPetsKaratePenguin_.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_chars16x8dEncountersEmbed_.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_chars16x16dEncountersEmbed_.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_chars16x8dEncountersEmbed_.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_chars8x8rLow2Embed_.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_chars16x16dMountains2Embed_.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\_rK_\_lA_.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_lofiObj6Embed_.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_chars8x8rBeachEmbed_.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\_L_7\_mf.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_chars8x8rMidEmbed_.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_lofiChar2Embed_.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_monsterTank1Embed_.dat" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_playerSkinsMaskEmbed_.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_lofiObj40x40Embed_.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_monsterTank4Embed_.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_extraEnvironmentEmbed_.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_chars16x8rEncountersEmbed_.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_lofiObjEmbed_.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_playerSkinsEmbed_.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_lofiObj2Embed_.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_innerP1MaskEmbed_.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_lofiEnvironment3Embed_.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_lofiObj4Embed_.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_chars8x8rPets1Embed_.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\RealmClient.iml" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_chars8x8dBeachEmbed_.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_starsEmbed_.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_chars16x16dMountains2Embed_.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_chars8x8rMidEmbed_.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_lofiEnvironmentEmbed_.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_lofiObj3Embed_.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_chars8x8rLow2Embed_.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_playerSkinsEmbed_.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github\SeraphClient\src\Embeds_lofiObj6Embed_.as" afterPath="" />
+      <change type="MODIFICATION" beforePath="D:\Github\SeraphClient\src\com\company\assembleegameclient\ui\_ej.as" afterPath="D:\Github\SeraphClient\src\com\company\assembleegameclient\ui\_ej.as" />
+      <change type="MODIFICATION" beforePath="D:\Github\SeraphClient\src\_011\_I_o.as" afterPath="D:\Github\SeraphClient\src\_011\_I_o.as" />
+      <change type="MODIFICATION" beforePath="D:\Github\SeraphClient\src\_0G_l\_in.as" afterPath="D:\Github\SeraphClient\src\_0G_l\_in.as" />
+      <change type="MODIFICATION" beforePath="D:\Github\SeraphClient\.gitignore" afterPath="D:\Github\SeraphClient\.gitignore" />
+      <change type="MODIFICATION" beforePath="D:\Github\SeraphClient\src\com\company\assembleegameclient\net\messages\data\StatData.as" afterPath="D:\Github\SeraphClient\src\com\company\assembleegameclient\net\messages\data\StatData.as" />
+      <change type="MODIFICATION" beforePath="D:\Github\SeraphClient\src\_00g\WebAccount.as" afterPath="D:\Github\SeraphClient\src\_00g\WebAccount.as" />
+      <change type="MODIFICATION" beforePath="D:\Github\SeraphClient\src\_R_v\_Y_8.as" afterPath="D:\Github\SeraphClient\src\_R_v\_Y_8.as" />
+      <change type="MODIFICATION" beforePath="D:\Github\SeraphClient\src\com\company\assembleegameclient\game\GameSprite.as" afterPath="D:\Github\SeraphClient\src\com\company\assembleegameclient\game\GameSprite.as" />
+      <change type="MODIFICATION" beforePath="D:\Github\SeraphClient\src\com\company\assembleegameclient\objects\Projectile.as" afterPath="D:\Github\SeraphClient\src\com\company\assembleegameclient\objects\Projectile.as" />
+      <change type="MODIFICATION" beforePath="D:\Github\SeraphClient\src\_vf\_gs.as" afterPath="D:\Github\SeraphClient\src\_vf\_gs.as" />
+      <change type="MODIFICATION" beforePath="D:\Github\SeraphClient\src\_nA_\_ax.as" afterPath="D:\Github\SeraphClient\src\_nA_\_ax.as" />
+      <change type="MODIFICATION" beforePath="D:\Github\SeraphClient\src\_Q_A_\_L__.as" afterPath="D:\Github\SeraphClient\src\_Q_A_\_L__.as" />
+      <change type="MODIFICATION" beforePath="D:\Github\SeraphClient\src\_Q_A_\_ag.as" afterPath="D:\Github\SeraphClient\src\_Q_A_\_ag.as" />
+      <change type="MODIFICATION" beforePath="D:\Github\SeraphClient\src\com\company\assembleegameclient\objects\Player.as" afterPath="D:\Github\SeraphClient\src\com\company\assembleegameclient\objects\Player.as" />
+      <change type="MODIFICATION" beforePath="D:\Github\SeraphClient\src\com\company\assembleegameclient\ui\_T_W_.as" afterPath="D:\Github\SeraphClient\src\com\company\assembleegameclient\ui\_T_W_.as" />
+      <change type="MODIFICATION" beforePath="D:\Github\SeraphClient\src\_0L_C_\_qO_.as" afterPath="D:\Github\SeraphClient\src\_0L_C_\_qO_.as" />
+      <change type="MODIFICATION" beforePath="D:\Github\SeraphClient\src\_F_1\CurrentCharacterScreen.as" afterPath="D:\Github\SeraphClient\src\_F_1\CurrentCharacterScreen.as" />
+      <change type="MODIFICATION" beforePath="D:\Github\SeraphClient\src\com\company\assembleegameclient\parameters\Parameters.as" afterPath="D:\Github\SeraphClient\src\com\company\assembleegameclient\parameters\Parameters.as" />
+      <change type="MODIFICATION" beforePath="D:\Github\SeraphClient\src\_qN_\Account.as" afterPath="D:\Github\SeraphClient\src\_qN_\Account.as" />
+      <change type="MODIFICATION" beforePath="D:\Github\SeraphClient\src\_F_1\_0H_2.as" afterPath="D:\Github\SeraphClient\src\_F_1\_0H_2.as" />
+      <change type="MODIFICATION" beforePath="D:\Github\SeraphClient\src\_Q_A_\_0L_h.as" afterPath="D:\Github\SeraphClient\src\_Q_A_\_0L_h.as" />
+      <change type="MODIFICATION" beforePath="D:\Github\SeraphClient\src\com\company\assembleegameclient\net\_W_v.as" afterPath="D:\Github\SeraphClient\src\com\company\assembleegameclient\net\_W_v.as" />
+      <change type="MODIFICATION" beforePath="D:\Github\SeraphClient\src\_0D_d\Frame.as" afterPath="D:\Github\SeraphClient\src\_0D_d\Frame.as" />
+      <change type="MODIFICATION" beforePath="D:\Github\SeraphClient\src\com\company\assembleegameclient\objects\_ez.as" afterPath="D:\Github\SeraphClient\src\com\company\assembleegameclient\objects\_ez.as" />
+      <change type="MODIFICATION" beforePath="D:\Github\SeraphClient\src\_D_H_\_J_U_.as" afterPath="D:\Github\SeraphClient\src\_D_H_\_J_U_.as" />
+      <change type="MODIFICATION" beforePath="D:\Github\SeraphClient\.idea\.name" afterPath="D:\Github\SeraphClient\.idea\.name" />
+      <change type="MODIFICATION" beforePath="D:\Github\SeraphClient\src\_F_1\_3V_.as" afterPath="D:\Github\SeraphClient\src\_F_1\_3V_.as" />
+      <change type="MODIFICATION" beforePath="D:\Github\SeraphClient\src\com\company\assembleegameclient\net\_1f.as" afterPath="D:\Github\SeraphClient\src\com\company\assembleegameclient\net\_1f.as" />
+      <change type="MODIFICATION" beforePath="D:\Github\SeraphClient\.flexProperties" afterPath="D:\Github\SeraphClient\.flexProperties" />
+      <change type="MODIFICATION" beforePath="D:\Github\SeraphClient\src\_0L_C_\_0G_y.as" afterPath="D:\Github\SeraphClient\src\_0L_C_\_0G_y.as" />
+      <change type="MODIFICATION" beforePath="D:\Github\SeraphClient\src\com\company\assembleegameclient\objects\GameObject.as" afterPath="D:\Github\SeraphClient\src\com\company\assembleegameclient\objects\GameObject.as" />
+      <change type="MODIFICATION" beforePath="D:\Github\SeraphClient\src\com\company\assembleegameclient\appengine\_2n.as" afterPath="D:\Github\SeraphClient\src\com\company\assembleegameclient\appengine\_2n.as" />
+      <change type="MODIFICATION" beforePath="D:\Github\SeraphClient\src\_G_A_\_F_y.as" afterPath="D:\Github\SeraphClient\src\_G_A_\_F_y.as" />
+      <change type="MODIFICATION" beforePath="D:\Github\SeraphClient\src\_vf\_Q_P_.as" afterPath="D:\Github\SeraphClient\src\_vf\_Q_P_.as" />
+      <change type="MODIFICATION" beforePath="D:\Github\SeraphClient\src\_Q_A_\_F_V_.as" afterPath="D:\Github\SeraphClient\src\_Q_A_\_F_V_.as" />
+      <change type="MODIFICATION" beforePath="D:\Github\SeraphClient\.project" afterPath="D:\Github\SeraphClient\.project" />
+      <change type="MODIFICATION" beforePath="D:\Github\SeraphClient\src\_F_1\_01_.as" afterPath="D:\Github\SeraphClient\src\_F_1\_01_.as" />
+      <change type="MODIFICATION" beforePath="D:\Github\SeraphClient\src\_Q_A_\_0G_d.as" afterPath="D:\Github\SeraphClient\src\_Q_A_\_0G_d.as" />
+      <change type="MODIFICATION" beforePath="D:\Github\SeraphClient\src\_0D_d\_8x.as" afterPath="D:\Github\SeraphClient\src\_0D_d\_8x.as" />
+    </list>
+    <ignored path="Rotmg123.5.1.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/bin/" />
+    <ignored path="$PROJECT_DIR$/bin-debug/" />
+    <ignored path="$PROJECT_DIR$/bin-release/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="hideWarnings" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Rotmg123.5.1" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Options.as" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_0C_P_/Options.as">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="3989" max-vertical-offset="6239">
+              <caret line="269" column="16" selection-start-line="269" selection-start-column="16" selection-end-line="269" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_0M_Y_.as" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/assembleegameclient/ui/_0M_Y_.as">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.24285714" vertical-offset="0" max-vertical-offset="4148">
+              <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Parameters.as" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/assembleegameclient/parameters/Parameters.as">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="2619" max-vertical-offset="4148">
+              <caret line="201" column="46" selection-start-line="201" selection-start-column="35" selection-end-line="201" selection-end-column="46" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../SeraphClient" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="F:/Development/AC" value="1399930175840" />
+        <entry key="F:/Development/Forge" value="1400073862000" />
+        <entry key="F:/Forge" value="1399902334000" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../ProdClient/src/_1ce/MarketplacePanel.as" />
+        <option value="$PROJECT_DIR$/../Exp/src/SWFUtils.as" />
+        <option value="$PROJECT_DIR$/../ProdClient/src/com/company/assembleegameclient/appengine/_1ZP.as" />
+        <option value="$PROJECT_DIR$/../Exp/src/ExperimentalNameGenerator.as" />
+        <option value="$PROJECT_DIR$/../ProdClient/src/com/company/assembleegameclient/game/BlacksmithHandler.as" />
+        <option value="$PROJECT_DIR$/../ProdClient/src/_1kV/_1S9.as" />
+        <option value="$PROJECT_DIR$/../ProdClient/src/com/company/assembleegameclient/game/BlacksmithCraftHandler.as" />
+        <option value="$PROJECT_DIR$/../ProdClient/src/com/company/assembleegameclient/ui/BlacksmithCraftModal.as" />
+        <option value="$PROJECT_DIR$/../ProdClient/src/_iw/_1IS.as" />
+        <option value="$PROJECT_DIR$/../ProdClient/src/_1kV/_0wu.as" />
+        <option value="$PROJECT_DIR$/../Exp/src/UnreadableNameGenerator.as" />
+        <option value="$PROJECT_DIR$/../Exp/src/RandomStringGenerator.as" />
+        <option value="$PROJECT_DIR$/../Exp/src/RandomStringGeneratorNew.as" />
+        <option value="$PROJECT_DIR$/../Exp/src/Obfuscator.as" />
+        <option value="$PROJECT_DIR$/src/zerorealms/rotmg/assets/AssetEmbeds.as" />
+        <option value="$PROJECT_DIR$/src/_sp/_aJ_.as" />
+        <option value="$PROJECT_DIR$/src/_03T_/MessageDispatcher.as" />
+        <option value="$PROJECT_DIR$/src/mx/formatters/Formatter.as" />
+        <option value="$PROJECT_DIR$/src/com/company/assembleegameclient/map/_M_9.as" />
+        <option value="$PROJECT_DIR$/src/_F_1/_3V_.as" />
+        <option value="$PROJECT_DIR$/src/_W_D_/Domain.as" />
+        <option value="$PROJECT_DIR$/src/_D_d/_N_g.as" />
+        <option value="$PROJECT_DIR$/src/_eZ_/_08b.as" />
+        <option value="$PROJECT_DIR$/src/_qj/BaseDescription.as" />
+        <option value="$PROJECT_DIR$/../ProdClient/src/_Of/BaseDescription.as" />
+        <option value="$PROJECT_DIR$/src/com/company/assembleegameclient/engine3d/_0I_4.as" />
+        <option value="$PROJECT_DIR$/src/_00g/WebAccount.as" />
+        <option value="$PROJECT_DIR$/src/_zD_/__for.as" />
+        <option value="$PROJECT_DIR$/src/_F_1/_C_Q_.as" />
+        <option value="$PROJECT_DIR$/src/com/company/assembleegameclient/parameters/Parameters.as" />
+        <option value="$PROJECT_DIR$/../ProdClient/src/_12A/_1YW.as" />
+        <option value="$PROJECT_DIR$/../ProdClient/src/_1gC/_uW.as" />
+        <option value="$PROJECT_DIR$/../ProdClient/src/_eU/_0rB.as" />
+        <option value="$PROJECT_DIR$/../ProdClient/src/_1ce/_071.as" />
+        <option value="$PROJECT_DIR$/../ProdClient/src/_1f7/_13c.as" />
+        <option value="$PROJECT_DIR$/../ProdClient/src/_1eg/_0hj.as" />
+        <option value="$PROJECT_DIR$/../ProdClient/src/com/company/assembleegameclient/game/GameSprite.as" />
+        <option value="$PROJECT_DIR$/../ProdClient/src/com/company/rotmg/graphics/PawGraphic.as" />
+        <option value="$PROJECT_DIR$/../ProdClient/src/_19n/_1ml.as" />
+        <option value="$PROJECT_DIR$/../ProdClient/src/com/company/rotmg/graphics/StarGraphic.as" />
+        <option value="$PROJECT_DIR$/../ProdClient/src/com/company/assembleegameclient/parameters/Parameters.as" />
+        <option value="$PROJECT_DIR$/../ProdClient/src/_1DZ/Options.as" />
+        <option value="$PROJECT_DIR$/../ProdClient/src/com/company/assembleegameclient/screens/charrects/CharacterRect.as" />
+        <option value="$PROJECT_DIR$/../ProdClient/src/_1jq/CharacterBox.as" />
+        <option value="$PROJECT_DIR$/../ProdClient/src/com/company/assembleegameclient/util/_1Gr.as" />
+        <option value="$PROJECT_DIR$/../ProdClient/src/_OW/RankToolTip.as" />
+        <option value="$PROJECT_DIR$/../ProdClient/src/_OW/_bD.as" />
+        <option value="$PROJECT_DIR$/../ProdClient/src/_1DZ/_oJ.as" />
+        <option value="$PROJECT_DIR$/src/_0D_d/ReforgeFrame.as" />
+        <option value="$PROJECT_DIR$/src/_0C_P_/Options.as" />
+        <option value="$PROJECT_DIR$/src/com/company/assembleegameclient/ui/_0M_Y_.as" />
+      </list>
+    </option>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="2880" />
+    <option name="width" value="960" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Code style issues</id>
+          </State>
+          <State>
+            <id>Code style issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Control flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Declaration redundancy</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>Imports</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Probable bugs</id>
+          </State>
+          <State>
+            <id>Verbose or redundant code constructs</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>StaticCallOnSubclass</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="Undo Check Out" />
+    <OptionsSetting value="true" id="Get Latest Version" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="PackagesPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RealmClient" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Rotmg123.5.1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RealmClient" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Rotmg123.5.1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RealmClient" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Rotmg123.5.1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="company" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RealmClient" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Rotmg123.5.1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="company" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assembleegameclient" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RealmClient" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Rotmg123.5.1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="company" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assembleegameclient" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ui" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RealmClient" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RealmClient" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RealmClient" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RealmClient" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Exp" />
+    <property name="options.lastSelected" value="configurable.group.editor" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="FullScreen" value="false" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="LayoutCode.rearrangeEntries" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src" />
+    <property name="last.edited.regexp" value="club559.minecraft@gmail.com" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="LayoutCode.rearrangeEntriesECMA Script Level 4" value="false" />
+    <property name="GenerateAntBuildDialog.generateSingleFile" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.inclineRuntiemClasspath" value="false" />
+    <property name="GenerateAntBuildDialog.generateIdeaHomeProperty" value="false" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="realmclient" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Github\ProdClient\src\com\company\rotmg\graphics" />
+      <recent name="D:\Github\Exp\src" />
+      <recent name="D:\Github\ProdClient\src\com\company\assembleegameclient\ui" />
+      <recent name="D:\Github\ProdClient\src\com\company\assembleegameclient\game" />
+      <recent name="D:\Github\ProdClient\src\_1ce" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Github\Rotmg123.5.1\src\rotmg\assets" />
+      <recent name="F:\Github\RealmClient\src\zerorealms\rotmg\assets" />
+      <recent name="F:\Github\ProdClient\src\kabam\rotmg\assets" />
+      <recent name="F:\Github\RealmClient\src" />
+      <recent name="F:\Github\RealmClient\src\zerorealms\rotmg\assets\models" />
+    </key>
+    <key name="CreateActionScriptClassDialog.DESTINATION_PACKAGE_RECENT_KEY">
+      <recent name="" />
+      <recent name="com.company.assembleegameclient.ui" />
+      <recent name="_marketplace" />
+      <recent name="com.company.assembleegameclient.game" />
+      <recent name="_1ce" />
+    </key>
+    <key name="com.intellij.javascript.flex.refactoring.moveClass.FlexMoveClassDialog.target_package">
+      <recent name="_0L_C_" />
+      <recent name="zerorealms.rotmg.assets" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Flash App.ProdClient">
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Rotmg123.5.1" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="Rotmg123.5.1" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="Rotmg123.5.1" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <RunnerSettings RunnerId="FlexDebugRunner" />
+      <RunnerSettings RunnerId="FlexRunner" />
+      <ConfigurationWrapper RunnerId="FlexDebugRunner" />
+      <ConfigurationWrapper RunnerId="FlexRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="RealmClient" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="WebMain" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="RealmClient" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <RunnerSettings RunnerId="FlexRunner" />
+      <ConfigurationWrapper RunnerId="FlexRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ProdClient" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="ProdClient" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="$USER_HOME$/Downloads/flashplayer_16_sa_debug.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="ProdClient" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <RunnerSettings RunnerId="FlexDebugRunner" />
+      <RunnerSettings RunnerId="FlexRunner" />
+      <ConfigurationWrapper RunnerId="FlexDebugRunner" />
+      <ConfigurationWrapper RunnerId="FlexRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Exp" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="Exp" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="Exp" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <RunnerSettings RunnerId="FlexRunner" />
+      <ConfigurationWrapper RunnerId="FlexRunner" />
+      <method />
+    </configuration>
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="Flash App.Rotmg123.5.1" />
+      <item index="1" class="java.lang.String" itemvalue="Flash App.RealmClient" />
+      <item index="2" class="java.lang.String" itemvalue="Flash App.ProdClient" />
+      <item index="3" class="java.lang.String" itemvalue="Flash App.Exp" />
+    </list>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00a96bec-c5f1-4ff1-bc56-aa5d9a889559" name="Default" comment="" />
+      <created>1401373687667</created>
+      <option name="number" value="Default" />
+      <updated>1401373687667</updated>
+      <workItem from="1401373691607" duration="10453000" />
+      <workItem from="1401405868911" duration="38263000" />
+      <workItem from="1401923117655" duration="42000" />
+      <workItem from="1402041916614" duration="11795000" />
+      <workItem from="1402057723251" duration="1681000" />
+      <workItem from="1402094421400" duration="2018000" />
+      <workItem from="1402268936263" duration="5795000" />
+      <workItem from="1402451281464" duration="13395000" />
+      <workItem from="1402488980082" duration="4976000" />
+      <workItem from="1402639439420" duration="8624000" />
+      <workItem from="1402746747840" duration="34229000" />
+      <workItem from="1402884390618" duration="220000" />
+      <workItem from="1402885008807" duration="44128000" />
+      <workItem from="1402957570061" duration="49000" />
+      <workItem from="1402999471918" duration="7392000" />
+      <workItem from="1403075732581" duration="7694000" />
+      <workItem from="1403170619347" duration="10000" />
+      <workItem from="1403199065096" duration="11476000" />
+      <workItem from="1403428547201" duration="11434000" />
+      <workItem from="1403450773972" duration="1995000" />
+      <workItem from="1403531382173" duration="3496000" />
+      <workItem from="1403563842326" duration="1709000" />
+      <workItem from="1403625670948" duration="16000" />
+      <workItem from="1403694021966" duration="1832000" />
+      <workItem from="1403916938813" duration="597000" />
+      <workItem from="1403971062335" duration="6595000" />
+      <workItem from="1403999158082" duration="517000" />
+      <workItem from="1403999752737" duration="60000" />
+      <workItem from="1404002247488" duration="957000" />
+      <workItem from="1404139951174" duration="7842000" />
+      <workItem from="1404224542240" duration="23000" />
+      <workItem from="1404234260612" duration="26046000" />
+      <workItem from="1404313377865" duration="16000" />
+      <workItem from="1404314532635" duration="15012000" />
+      <workItem from="1404361281256" duration="32758000" />
+      <workItem from="1404459113394" duration="97000" />
+      <workItem from="1404515513961" duration="6968000" />
+      <workItem from="1404529902568" duration="1331000" />
+      <workItem from="1404544960356" duration="2013000" />
+      <workItem from="1404671398572" duration="8055000" />
+      <workItem from="1404695565123" duration="113000" />
+      <workItem from="1404776498721" duration="285000" />
+      <workItem from="1404780895651" duration="1291000" />
+      <workItem from="1404957654052" duration="6897000" />
+      <workItem from="1405215215217" duration="13320000" />
+      <workItem from="1405238952710" duration="2148000" />
+      <workItem from="1405258042375" duration="1188000" />
+      <workItem from="1405295576715" duration="76000" />
+      <workItem from="1405330103793" duration="2648000" />
+      <workItem from="1405496871967" duration="515000" />
+      <workItem from="1405501461856" duration="46000" />
+      <workItem from="1405522957339" duration="11386000" />
+      <workItem from="1405614505594" duration="1024000" />
+      <workItem from="1405693899635" duration="855000" />
+      <workItem from="1405768429984" duration="17382000" />
+      <workItem from="1405931247930" duration="1707000" />
+      <workItem from="1406017822942" duration="1436000" />
+      <workItem from="1406034757328" duration="4233000" />
+      <workItem from="1406111331907" duration="943000" />
+      <workItem from="1406117257834" duration="9384000" />
+      <workItem from="1406149549484" duration="2245000" />
+      <workItem from="1406170125657" duration="97000" />
+      <workItem from="1406207295006" duration="4116000" />
+      <workItem from="1406296992870" duration="327000" />
+      <workItem from="1406390131271" duration="1837000" />
+      <workItem from="1406451023707" duration="4000" />
+      <workItem from="1406497082266" duration="2685000" />
+      <workItem from="1406626306524" duration="1362000" />
+      <workItem from="1406629626868" duration="15855000" />
+      <workItem from="1406904536247" duration="2322000" />
+      <workItem from="1407015155033" duration="3524000" />
+      <workItem from="1407027348605" duration="332000" />
+      <workItem from="1407081559613" duration="9207000" />
+      <workItem from="1407208589594" duration="2465000" />
+      <workItem from="1407439057894" duration="4687000" />
+      <workItem from="1407459498373" duration="10837000" />
+      <workItem from="1407476357958" duration="850000" />
+      <workItem from="1407616910528" duration="594000" />
+      <workItem from="1407661893089" duration="5718000" />
+      <workItem from="1407795534891" duration="667000" />
+      <workItem from="1407904702841" duration="6485000" />
+      <workItem from="1408082670948" duration="7076000" />
+      <workItem from="1408204282140" duration="3828000" />
+      <workItem from="1408244652692" duration="24884000" />
+      <workItem from="1408521155817" duration="203000" />
+      <workItem from="1408899667114" duration="1339000" />
+      <workItem from="1409152255867" duration="66000" />
+      <workItem from="1409332187343" duration="886000" />
+      <workItem from="1410726880784" duration="6535000" />
+      <workItem from="1410815043776" duration="11422000" />
+      <workItem from="1411075403301" duration="7409000" />
+      <workItem from="1411123588311" duration="1000" />
+      <workItem from="1411123603219" duration="46532000" />
+      <workItem from="1411438343308" duration="5229000" />
+      <workItem from="1411640388042" duration="6459000" />
+      <workItem from="1411717090850" duration="8438000" />
+      <workItem from="1412244580835" duration="3263000" />
+      <workItem from="1412348739915" duration="4901000" />
+      <workItem from="1413251989049" duration="8000" />
+      <workItem from="1413395230315" duration="1858000" />
+      <workItem from="1413397120153" duration="8930000" />
+      <workItem from="1413417943562" duration="3978000" />
+      <workItem from="1413476926038" duration="10045000" />
+      <workItem from="1413656115731" duration="23464000" />
+      <workItem from="1413911927341" duration="832000" />
+      <workItem from="1414045127883" duration="2497000" />
+      <workItem from="1414056112506" duration="9883000" />
+      <workItem from="1414124203492" duration="2927000" />
+      <workItem from="1414207343769" duration="4843000" />
+      <workItem from="1414344105506" duration="8086000" />
+      <workItem from="1414836965066" duration="5149000" />
+      <workItem from="1414999387189" duration="6880000" />
+      <workItem from="1415447294985" duration="3047000" />
+      <workItem from="1417950435451" duration="884000" />
+      <workItem from="1418192185193" duration="197000" />
+      <workItem from="1419864043562" duration="1816000" />
+      <workItem from="1420158163934" duration="292000" />
+      <workItem from="1420158491105" duration="6143000" />
+      <workItem from="1420169913983" duration="8669000" />
+      <workItem from="1420179377826" duration="4779000" />
+      <workItem from="1420217673514" duration="4190000" />
+      <workItem from="1420328985840" duration="7262000" />
+      <workItem from="1420395837220" duration="1447000" />
+      <workItem from="1420425982911" duration="3206000" />
+      <workItem from="1420533143225" duration="100000" />
+      <workItem from="1420533284176" duration="702000" />
+      <workItem from="1420679699252" duration="26784000" />
+      <workItem from="1420766548781" duration="9992000" />
+      <workItem from="1420809092868" duration="26243000" />
+      <workItem from="1420936213545" duration="26551000" />
+      <workItem from="1421072689293" duration="469000" />
+      <workItem from="1421082656803" duration="5000" />
+      <workItem from="1421156619266" duration="3472000" />
+      <workItem from="1421210604741" duration="3088000" />
+      <workItem from="1421296586691" duration="1982000" />
+      <workItem from="1421311302036" duration="440000" />
+      <workItem from="1421320734047" duration="13150000" />
+      <workItem from="1421419419204" duration="1731000" />
+      <workItem from="1421460646878" duration="23521000" />
+      <workItem from="1421590855039" duration="215000" />
+      <workItem from="1422282716432" duration="1211000" />
+      <workItem from="1422388027406" duration="24303000" />
+      <workItem from="1422424880704" duration="6108000" />
+      <workItem from="1422464691634" duration="103000" />
+      <workItem from="1422464805461" duration="3516000" />
+      <workItem from="1422488805250" duration="2361000" />
+      <workItem from="1422553584995" duration="5610000" />
+      <workItem from="1423048147689" duration="228000" />
+      <workItem from="1423195452561" duration="1478000" />
+      <workItem from="1423206239933" duration="623000" />
+      <workItem from="1423429391656" duration="316000" />
+      <workItem from="1423533442749" duration="6014000" />
+      <workItem from="1423882825039" duration="1071000" />
+      <workItem from="1423959991177" duration="648000" />
+      <workItem from="1423970476445" duration="9355000" />
+      <workItem from="1423993207415" duration="679000" />
+      <workItem from="1424003045980" duration="180000" />
+      <workItem from="1424056078250" duration="1778000" />
+      <workItem from="1424143304326" duration="1269000" />
+      <workItem from="1424152424131" duration="10962000" />
+      <workItem from="1424367249835" duration="4496000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="993939000" />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="2880" y="0" width="960" height="1080" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32917964" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32638165" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28764278" sideWeight="0.49840087" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32995737" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32917964" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3271028" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33555555" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2914467" sideWeight="0.50053304" order="1" side_tool="false" content_ui="tabs" x="-1936" y="104" width="1876" height="867" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19083156" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2488889" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28660437" sideWeight="0.49946696" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31983384" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3997923" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28764278" sideWeight="0.5010661" order="2" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.17133956" sideWeight="0.49307036" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32995737" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2489339" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3997923" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32917964" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3271028" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32087228" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3997923" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32917964" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.30944964" sideWeight="0.5042644" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3271028" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21108742" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33125648" sideWeight="0.5053305" order="1" side_tool="false" content_ui="tabs" x="-1936" y="104" width="1876" height="867" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19083156" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="false" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="flex">
+          <url>file://$PROJECT_DIR$/../ProdClient/src/com/company/assembleegameclient/objects/OneWayContainer.as</url>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="flex">
+          <url>file://$PROJECT_DIR$/../ProdClient2/src/_1WX/_SafeStr_588.as</url>
+          <line>6</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="15" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../ProdClient/src/_9G/_6H.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.28947368" vertical-offset="1122" max-vertical-offset="1904">
+          <caret line="57" column="26" selection-start-line="57" selection-start-column="26" selection-end-line="57" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ProdClient/src/_9G/_0LS.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.15477997" vertical-offset="0" max-vertical-offset="659">
+          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ProdClient/src/_Rj/_1ff.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5675266" vertical-offset="0" max-vertical-offset="1054">
+          <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ProdClient/src/_1Jb/_0Sv.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.20637329" vertical-offset="0" max-vertical-offset="659">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ProdClient/src/_1mP/_bp.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5159332" vertical-offset="0" max-vertical-offset="659">
+          <caret line="31" column="32" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ProdClient/src/_12A/_1YW.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.09711684" vertical-offset="38" max-vertical-offset="697">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/assembleegameclient/ui/_4D_.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7966616" vertical-offset="1821" max-vertical-offset="5525">
+          <caret line="167" column="0" selection-start-line="167" selection-start-column="0" selection-end-line="167" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ProdClient/src/_JS/_01p.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3622291" vertical-offset="582" max-vertical-offset="31348">
+          <caret line="360" column="41" selection-start-line="360" selection-start-column="41" selection-end-line="360" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ProdClient/src/_EH/_0uP.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4582701" vertical-offset="174" max-vertical-offset="833">
+          <caret line="74" column="32" selection-start-line="74" selection-start-column="32" selection-end-line="74" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ProdClient/src/_1mP/_0x6.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.71981424" vertical-offset="79" max-vertical-offset="1037">
+          <caret line="43" column="38" selection-start-line="43" selection-start-column="38" selection-end-line="43" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ProdClient/src/com/company/rotmg/graphics/PawGraphic.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ProdClient/src/_0Xn/_PA.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3323217" vertical-offset="19" max-vertical-offset="884">
+          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ProdClient/src/_0Xn/_1iX.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="391">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ProdClient/src/com/company/assembleegameclient/parameters/Parameters.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3132" max-vertical-offset="4165">
+          <caret line="205" column="22" selection-start-line="205" selection-start-column="11" selection-end-line="205" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ProdClient/src/com/company/rotmg/graphics/StarGraphic.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ProdClient/src/com/company/assembleegameclient/screens/charrects/CharacterRect.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1258" max-vertical-offset="2193">
+          <caret line="91" column="66" selection-start-line="91" selection-start-column="66" selection-end-line="91" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ProdClient/src/_1jq/CharacterBox.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3232" max-vertical-offset="4692">
+          <caret line="212" column="85" selection-start-line="212" selection-start-column="85" selection-end-line="212" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ProdClient/src/com/company/assembleegameclient/game/GameSprite.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.37770897" vertical-offset="6636" max-vertical-offset="7582">
+          <caret line="480" column="21" selection-start-line="480" selection-start-column="21" selection-end-line="480" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ProdClient/src/WebMain.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7105263" vertical-offset="204" max-vertical-offset="1173">
+          <caret line="137" column="21" selection-start-line="137" selection-start-column="21" selection-end-line="137" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ProdClient/src/_1DZ/_0IR.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2" max-vertical-offset="833">
+          <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ProdClient/src/com/company/assembleegameclient/ui/RankText.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1022" max-vertical-offset="1819">
+          <caret line="88" column="0" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ProdClient/src/_1jq/_1AH.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="818" max-vertical-offset="1751">
+          <caret line="75" column="0" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ProdClient/src/_v_/_15Y.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1139">
+          <caret line="38" column="17" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ProdClient/src/_1lv/_0nm.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="1530">
+          <caret line="54" column="22" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ProdClient/src/_1DZ/KeyCodeBox.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.25835866" vertical-offset="0" max-vertical-offset="2312">
+          <caret line="33" column="24" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ProdClient/src/_1DZ/_oJ.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0030395137" vertical-offset="19" max-vertical-offset="1207">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ProdClient/src/_OW/RankToolTip.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.48480242" vertical-offset="2163" max-vertical-offset="2822">
+          <caret line="147" column="24" selection-start-line="147" selection-start-column="24" selection-end-line="147" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ProdClient/src/_OW/_bD.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.38449848" vertical-offset="274" max-vertical-offset="986">
+          <caret line="40" column="50" selection-start-line="40" selection-start-column="50" selection-end-line="40" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ProdClient/src/com/company/assembleegameclient/objects/ObjectLibrary.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="869" max-vertical-offset="6137">
+          <caret line="82" column="22" selection-start-line="82" selection-start-column="22" selection-end-line="82" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ProdClient/src/com/company/assembleegameclient/util/_1Gr.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="816" max-vertical-offset="2023">
+          <caret line="62" column="27" selection-start-line="62" selection-start-column="27" selection-end-line="62" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Rotmg123.5.1/src/com/company/assembleegameclient/parameters/Parameters.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="788" max-vertical-offset="3978">
+          <caret line="65" column="34" selection-start-line="65" selection-start-column="34" selection-end-line="65" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ProdClient/src/_1DZ/Options.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3708" max-vertical-offset="8908">
+          <caret line="232" column="34" selection-start-line="232" selection-start-column="34" selection-end-line="232" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ProdClient/src/_v_/_0yM.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1328" max-vertical-offset="2414">
+          <caret line="133" column="45" selection-start-line="133" selection-start-column="45" selection-end-line="133" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ProdClient/src/com/company/assembleegameclient/game/_NS.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="6122" max-vertical-offset="8891">
+          <caret line="431" column="38" selection-start-line="431" selection-start-column="38" selection-end-line="431" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ProdClient/src/com/google/analytics/utils/Environment.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="512" max-vertical-offset="4488">
+          <caret line="53" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_ke/Buttons.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
+          <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Rotmg123.5.1/src/_ke/_0M_1.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="425">
+          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Rotmg123.5.1/src/_F_1/_C_Q_.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="648" max-vertical-offset="1666">
+          <caret line="68" column="25" selection-start-line="65" selection-start-column="0" selection-end-line="68" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_0D_d/ReforgeFrame.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="189" max-vertical-offset="1479">
+          <caret line="29" column="62" selection-start-line="29" selection-start-column="62" selection-end-line="29" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ProdClient/src/_19n/_1ml.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="10406" max-vertical-offset="11560">
+          <caret line="626" column="38" selection-start-line="626" selection-start-column="38" selection-end-line="626" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ProdClient/src/_0lC/_Qz.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="612">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ProdClient/src/_0lC/_yu.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="70" max-vertical-offset="1224">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ProdClient/src/_1kV/_1OB.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="425" max-vertical-offset="1360">
+          <caret line="58" column="47" selection-start-line="58" selection-start-column="47" selection-end-line="58" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/assembleegameclient/objects/_O_d.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="283" max-vertical-offset="1241">
+          <caret line="37" column="55" selection-start-line="37" selection-start-column="55" selection-end-line="37" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Rotmg123.5.1/src/com/company/assembleegameclient/ui/_0M_Y_.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1903" max-vertical-offset="3604">
+          <caret line="126" column="44" selection-start-line="126" selection-start-column="6" selection-end-line="126" selection-end-column="44" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ProdClient/src/_0Wr/_11a.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1955">
+          <caret line="36" column="31" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ProdClient/src/_co/Frame.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="408" max-vertical-offset="3536">
+          <caret line="37" column="15" selection-start-line="37" selection-start-column="15" selection-end-line="37" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ProdClient/src/_0Wr/WebLoginDialog.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1717">
+          <caret line="28" column="30" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/assembleegameclient/parameters/Parameters.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2619" max-vertical-offset="4148">
+          <caret line="201" column="46" selection-start-line="201" selection-start-column="35" selection-end-line="201" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_0C_P_/Options.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3989" max-vertical-offset="6239">
+          <caret line="269" column="16" selection-start-line="269" selection-start-column="16" selection-end-line="269" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/assembleegameclient/ui/_0M_Y_.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.24285714" vertical-offset="0" max-vertical-offset="4148">
+          <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Detection</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>Flex4.6.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ProdClient|ProdClient</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>libs</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
