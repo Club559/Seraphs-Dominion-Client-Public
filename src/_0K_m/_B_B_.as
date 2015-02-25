@@ -31,19 +31,25 @@ public class _B_B_ extends _I_b {
         if (this.go_.map_ == null) {
             return (false);
         }
+        var _create:Boolean = false;
+        if(x_ != this.go_.x_ || y_ != this.go_.y_) {
+            _create = true;
+        }
         x_ = this.go_.x_;
         y_ = this.go_.y_;
         var _local3:int = 20;
         var _local4:int;
-        while (_local4 < this.rate) {
-            _local5 = ((Math.random() + 0.3) * 200);
-            _local6 = Math.random();
-            _local7 = _04d._F_e((this._dQ_.speed - (this._dQ_.speed * (_local6 * (1 - this._dQ_.speedVariance)))));
-            _local8 = _04d._F_e((this._dQ_.speed - (this._dQ_.speed * (_local6 * (1 - this._dQ_.speedVariance)))));
-            _local9 = ((this._dQ_.life * 1000) - ((this._dQ_.life * 1000) * (_local6 * this._dQ_.lifeVariance)));
-            _local10 = new _t7(_local5, this.color_, _local9, this._dQ_.spread, 0, _local7, _local8);
-            map_.addObj(_local10, x_, y_);
-            _local4++;
+        if(_create) {
+            while (_local4 < this.rate) {
+                _local5 = ((Math.random() + 0.3) * 200);
+                _local6 = Math.random();
+                _local7 = _04d._F_e((this._dQ_.speed - (this._dQ_.speed * (_local6 * (1 - this._dQ_.speedVariance)))));
+                _local8 = _04d._F_e((this._dQ_.speed - (this._dQ_.speed * (_local6 * (1 - this._dQ_.speedVariance)))));
+                _local9 = ((this._dQ_.life * 1000) - ((this._dQ_.life * 1000) * (_local6 * this._dQ_.lifeVariance)));
+                _local10 = new _t7(150, this.color_, _local9, this._dQ_.spread, 0, _local7, _local8);
+                map_.addObj(_local10, x_, y_);
+                _local4++;
+            }
         }
         return (true);
     }

@@ -161,7 +161,7 @@ public class _E_6 extends Slot {
         if (((!(_local3)) && (!(_local4)))) {
             return;
         }
-        if (_local3) {
+        if (_local3 && (itemData_ != null ? !itemData_.MultiUse : true)) {
             if (this._04q) {
                 return;
             }

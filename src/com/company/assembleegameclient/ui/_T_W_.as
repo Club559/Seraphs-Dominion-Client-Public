@@ -4,7 +4,10 @@
 //com.company.assembleegameclient.ui._T_W_
 
 package com.company.assembleegameclient.ui {
-import _qN_.Account;
+
+    import _011.ItemSelectStart;
+
+    import _qN_.Account;
 
 import com.company.assembleegameclient.game.GameSprite;
 import com.company.assembleegameclient.objects.Player;
@@ -109,6 +112,7 @@ public class _T_W_ extends Sprite {
     public var _e9:Inventory;
     public var pack_:Inventory;
     public var _0E__:int;
+    public var itemSelect_:ItemSelect;
     private var gs_:GameSprite;
     private var go_:Player;
     private var w_:int;
@@ -203,6 +207,30 @@ public class _T_W_ extends Sprite {
     private function onTabClick(me:MouseEvent):void {
         if (me.target is TabButton) {
             this.switchTab(me.target as TabButton);
+        }
+    }
+
+    public function selectItems(_arg1:ItemSelectStart) {
+        if(this.itemSelect_ != null) {
+            return;
+        }
+        this.equips_.visible = false;
+        this.statTab_.visible = false;
+        this.invTab_.visible = false;
+        this.itemSelect_ = new ItemSelect(this.gs_, _arg1);
+        this.itemSelect_.y = 62;
+        addChild(this.itemSelect_);
+        this.itemSelect_.addEventListener(Event.CANCEL, this.cancelSelect)
+    }
+
+    public function cancelSelect(event:Event=null):void {
+        this.equips_.visible = true;
+        this.statTab_.visible = true;
+        this.invTab_.visible = true;
+        if(this.itemSelect_ != null) {
+            this.itemSelect_.removeEventListener(Event.CANCEL, this.cancelSelect);
+            removeChild(this.itemSelect_);
+            this.itemSelect_ = null;
         }
     }
 

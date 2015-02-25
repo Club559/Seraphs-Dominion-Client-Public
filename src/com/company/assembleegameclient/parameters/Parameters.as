@@ -48,7 +48,7 @@ public class Parameters {
     public static const TEST_ID:int = -6;
     public static const _K_5:Number = 18;
     public static const ToS_Url_:String = "http://www.realmofthemadgod.com/TermsofUse.html";
-    public static const musicUrl_:String = "realm.kithio.com";
+    public static const musicUrl_:String = "travoos.com";
     public static const connection:String = _fK_();
     public static const HelpCommand:String = "Help:\n" + "[/pause]: pause the game (until you [/pause] again\n" + "[/who]: list players online\n" + "[/tutorial]: enter the tutorial\n" + "[/yell <message>]: send message to all players in Nexus\n" + "[/tell <player name> <message>]: send a private message to a player\n" + "[/guild <message>]: send a message to your guild\n" + "[/ignore <player name>]: don't show chat messages from player\n" + "[/unignore <player name>]: stop ignoring a player\n" + "[/teleport <player name>]: teleport to a player\n" + "[/trade <player name>]: request a trade with a player\n" + "[/invite <player name>]: invite a player to your guild\n" + "[/join <guild name>]: join a guild (invite necessary\n" + "[/?]: this message";
     public static const RANDOM1:String = "311f80691451c71b09a13a2a6e";
