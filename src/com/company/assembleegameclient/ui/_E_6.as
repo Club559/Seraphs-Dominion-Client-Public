@@ -90,8 +90,10 @@ public class _E_6 extends Slot {
     }
 
     public function draw(_arg1:int):void {
-        if (this.itemData_ != this._e9._iA_.equipData_[this.id_]) {
-            this.itemData_ = this._e9._iA_ != null ? this._e9._iA_.equipData_[this.id_] : null;
+        if(this._e9 != null && this._e9._iA_ != null) {
+            if (this.itemData_ != this._e9._iA_.equipData_[this.id_]) {
+                this.itemData_ = this._e9._iA_ != null ? this._e9._iA_.equipData_[this.id_] : null;
+            }
         }
         if ((this.objectType_ == _arg1) && (!(this._cX_) || (this._F_t == this._C_p()))) {
             return;
