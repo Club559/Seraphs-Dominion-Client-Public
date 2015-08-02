@@ -6,14 +6,17 @@
 package com.company.assembleegameclient.game {
 import _0C_P_.Options;
 
-import _4K_.Stats;
+    import _0D_d.GiveBox;
+
+    import _4K_.Stats;
 
 import com.company.assembleegameclient.map.Square;
 import com.company.assembleegameclient.objects.Player;
 import com.company.assembleegameclient.parameters.Parameters;
 import com.company.assembleegameclient.tutorial.Tutorial;
 import com.company.assembleegameclient.tutorial.doneAction;
-import com.company.assembleegameclient.util.TextureRedrawer;
+    import com.company.assembleegameclient.ui.FrameHolder;
+    import com.company.assembleegameclient.util.TextureRedrawer;
 import com.company.util._H_V_;
 
 import flash.display.Stage;
@@ -401,6 +404,15 @@ public class _07a {
                 break;
             case Parameters.data_.useSpecial:
                 _local3.shukAbil(this.gs_.map_.mouseX, this.gs_.map_.mouseY);
+                break;
+            case Parameters.data_.giveItem:
+                if(this.gs_.charList_._V_v) {
+                    this.clearInput();
+                    var _giveBox:GiveBox = new GiveBox(this.gs_);
+                    this.gs_.stage.addChild(new FrameHolder(_giveBox));
+                } else {
+                    this.gs_.textBox_.addText(Parameters.SendError, "You are not an admin.")
+                }
                 break;
         }
         this._B_Q_();

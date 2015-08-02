@@ -62,6 +62,7 @@ public class ObjectLibrary {
     public static var _tj:Vector.<XML> = new Vector.<XML>();
     public static var _J_G_:Vector.<XML> = new Vector.<XML>();
     public static var _9x:Dictionary = new Dictionary();
+    public static var ITEMS_:Vector.<String> = new Vector.<String>();
 
     public static function _nY_(_arg1:XML):void {
         var _local2:XML;
@@ -86,6 +87,9 @@ public class ObjectLibrary {
             _Q_F_[_local5] = _local2;
             _pb[_local3] = _local5;
             _0D_N_[_local5] = _local4;
+            if (String(_local2.Class) == "Equipment") {
+                ITEMS_.push(String(_local2.@id));
+            }
             if (String(_local2.Class) == "Player") {
                 _9x[_local5] = String(_local2.@id).substr(0, 2);
                 _local6 = false;
@@ -340,6 +344,21 @@ public class ObjectLibrary {
             }
         }
         return (false);
+    }
+
+    public static function searchItems(_arg1:String):Vector.<int> {
+        var filterFunction:Function = function(item:String, index:int, vec:Vector.<String>):Boolean {
+            if(item.toLowerCase().indexOf(_arg1.toLowerCase()) != -1) {
+                return true;
+            }
+            return false;
+        };
+        var ret:Vector.<int> = new Vector.<int>();
+        var eacherFunction:Function = function(item:String, index:int, vec:Vector.<String>):void {
+            ret.push(_pb[item]);
+        };
+        ITEMS_.filter(filterFunction).forEach(eacherFunction);
+        return ret;
     }
 
 }

@@ -155,6 +155,7 @@ public class Parameters {
         _la("partyChat", _H_V_.P);
         _la("toggleFullscreen", _H_V_._0F_r);
         _la("switchTabs", _H_V_.B);
+        _la("giveItem", _H_V_._0F_r);
         _iw("playerObjectType", 782);
         _iw("playMusic", true);
         _iw("playSFX", true);

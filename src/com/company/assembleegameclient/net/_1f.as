@@ -262,6 +262,7 @@ public class _1f {
     public static const ITEMRESULT:int = 90;
     public static const GETTEXTINPUT:int = 91;
     public static const TEXTINPUTRESULT:int = 92;
+    public static const GIVEITEM:int = 93;
     private static const _vb:Vector.<uint> = new <uint>[14802908, 0xFFFFFF, 0x545454];
     private static const _Z_y:Vector.<uint> = new <uint>[5644060, 16549442, 13484223];
     private static const _0A_F_:Vector.<uint> = new <uint>[2493110, 61695, 13880567];
@@ -361,6 +362,7 @@ public class _1f {
         this._08._g9(ITEMRESULT, ItemResult, this.itemResult);
         this._08._g9(GETTEXTINPUT, GetTextInput, this.showTextInput);
         this._08._g9(TEXTINPUTRESULT, TextInputResult, null);
+        this._08._g9(GIVEITEM, GiveItem, null);
         this._08.addEventListener(Event.CONNECT, this._ux);
         this._08.addEventListener(Event.CLOSE, this._of);
         this._08.addEventListener(ErrorEvent.ERROR, this.onError);
@@ -680,6 +682,17 @@ public class _1f {
         _local3.success_ = _arg1;
         _local3.action_ = _arg2;
         _local3.input_ = _arg3;
+        this._08.sendMessage(_local3);
+    }
+
+    public function giveItem(_arg1:int, _arg2:Object):void {
+        var _local3:GiveItem = (this._08._Y_E_(GIVEITEM) as GiveItem);
+        _local3.itemType_ = _arg1;
+        if(_arg2 != null) {
+            _local3.itemData_ = _arg2;
+        } else {
+            _local3.itemData_ = {};
+        }
         this._08.sendMessage(_local3);
     }
 

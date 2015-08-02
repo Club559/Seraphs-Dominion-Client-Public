@@ -192,6 +192,7 @@ public class Options extends Sprite {
         this._yZ_(new _G_X_("escapeToNexus", "Escape To Nexus", "This key will instantly escape you to the Nexus"));
         this._yZ_(new _G_X_("options", "Show Options", "This key will bring up the options screen"));
         this._yZ_(new _G_X_("switchTabs", "Switch Tabs", "THis key will flip through your tabs."));
+        this._yZ_(new _G_X_("giveItem", "Give Item", "Opens the item give box (admin-only)"));
         //this._yZ_(new _0I_j("inventorySwap", new <String>["On", "Off"], [true, false], "Switch items to/from backpack.", "Hold the " + this.invSwap() + " key and click on an item to swap it between your inventory and your backpack.", null));
         if (Capabilities.playerType == "Desktop") {
             this._yZ_(new _G_X_("toggleFullscreen", "Toggle Fullscreen Mode", ("Toggle whether the game is " + "run in a window or fullscreen")));

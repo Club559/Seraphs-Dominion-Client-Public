@@ -109,6 +109,32 @@ public class GraphicHelper {
         data.lineTo((x - cornerRadius), y);
     }
 
+    public static function darkenColor(hexColor:Number, percent:Number):Number{
+        if(isNaN(percent))
+            percent=0;
+        if(percent>100)
+            percent=100;
+        if(percent<0)
+            percent=0;
+
+        var factor:Number=1-(percent/100);
+        var rgb:Object=hexToRgb(hexColor);
+
+        rgb.r*=factor;
+        rgb.b*=factor;
+        rgb.g*=factor;
+
+        return rgbToHex(Math.round(rgb.r),Math.round(rgb.g),Math.round(rgb.b));
+    }
+
+    public static function rgbToHex(r:Number, g:Number, b:Number):Number {
+        return(r<<16 | g<<8 | b);
+    }
+
+    public static function hexToRgb (hex:Number):Object{
+        return {r:(hex & 0xff0000) >> 16,g:(hex & 0x00ff00) >> 8,b:hex & 0x0000ff};
+    }
+
 }
 }//package com.company.util
 
