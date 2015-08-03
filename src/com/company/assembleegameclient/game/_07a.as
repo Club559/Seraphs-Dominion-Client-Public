@@ -406,12 +406,14 @@ public class _07a {
                 _local3.shukAbil(this.gs_.map_.mouseX, this.gs_.map_.mouseY);
                 break;
             case Parameters.data_.giveItem:
-                if(this.gs_.charList_._V_v) {
-                    this.clearInput();
-                    var _giveBox:GiveBox = new GiveBox(this.gs_);
-                    this.gs_.stage.addChild(new FrameHolder(_giveBox));
-                } else {
-                    this.gs_.textBox_.addText(Parameters.SendError, "You are not an admin.")
+                if(this.gs_.stage.focus == null) {
+                    if (this.gs_.charList_._V_v) {
+                        this.clearInput();
+                        var _giveBox:GiveBox = new GiveBox(this.gs_);
+                        this.gs_.stage.addChild(new FrameHolder(_giveBox));
+                    } else {
+                        this.gs_.textBox_.addText(Parameters.SendError, "You are not an admin.")
+                    }
                 }
                 break;
         }
